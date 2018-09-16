@@ -1,0 +1,8 @@
+/** empty css file for component consistency **/
+.about-title {
+    text-align: center;
+    font-weight: 700;
+}
+.about {
+    padding: 2em;
+}
