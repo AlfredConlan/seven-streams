@@ -5,7 +5,8 @@
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: #385E6C;
+    text-shadow: 1px 1px #ffffff;
 }
 
 .no-cover .page-title {
