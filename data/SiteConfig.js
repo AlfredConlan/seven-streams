@@ -6,7 +6,7 @@ module.exports = {
   siteTitleAlt: "Seven Streams Retreat Center", // Alternative site title for SEO.
   siteLogo:
     "/images/Logo.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://pipnsam.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://Seven-Streams.com", // Domain of your website without pathPrefix.
   pathPrefix: "/ssrc", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "Dedicated to creating and cultivating zen gardens and sustainably constructed architecture in three seasonal locations.", // Website description used for RSS feeds/meta description tag.
