@@ -1,8 +1,13 @@
-/** empty css file for component consistency **/
 .about-title {
     text-align: center;
     font-weight: 700;
 }
-.about {
+.about-content {
+    margin-top: 3em;
     padding: 2em;
+}
+
+.nav-closed .menu-button {
+    color: black;
+    border-color: black;
 }

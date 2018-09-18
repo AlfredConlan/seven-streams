@@ -1,0 +1,14 @@
+{
+  "id": "steve",
+  "name": "Steven Miller, M.A.",
+  "image": "/images/Logo.png",
+  "url": "https://www.youtube.com/channel/UCj-D2TM8oBA1aJyUczVPWSQ",
+  "location": "On The Road",
+  "bio": "Steven Miller, M.A. is the Founder, Host and Zen Gardener at Seven Streams Retreat Centers. He can be seen as 'The Mindful Nomad' on YouTube",
+  
+  "socialUrls": [
+    "https://github.com/gatsbyjs",
+    "https://twitter.com/gatsbyjs",
+    "mailto:gatsbyjs@example.com"
+  ]
+}

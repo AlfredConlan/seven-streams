@@ -1,12 +1,12 @@
 module.exports = {
-  blogPostDir: "sample-posts", // The name of directory that contains your posts.
-  blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
+  blogPostDir: "posts", // The name of directory that contains your posts.
+  blogAuthorDir: "authors", // The name of directory that contains your 'authors' folder.
   blogAuthorId: "steve", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Seven Streams Retreat Centers", // Site title.
   siteTitleAlt: "Seven Streams Retreat Center", // Alternative site title for SEO.
   siteLogo:
     "/images/Logo.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://pipnsam.com/ssrc/", // Domain of your website without pathPrefix.
+  siteUrl: "https://pipnsam.com", // Domain of your website without pathPrefix.
   pathPrefix: "/ssrc", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "Dedicated to creating and cultivating zen gardens and sustainably constructed architecture in three seasonal locations.", // Website description used for RSS feeds/meta description tag.
@@ -57,5 +57,5 @@ module.exports = {
   },
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0", // Used for setting manifest background color.
-  promoteGatsby: true // Enables the GatsbyJS promotion information in footer.
+  promoteGatsby: false // Enables the GatsbyJS promotion information in footer.
 };
